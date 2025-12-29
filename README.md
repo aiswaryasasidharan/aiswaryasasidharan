@@ -29,7 +29,7 @@ Welcome to my GitHub Profile!
 
 ## 🤝 Let's Connect
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
-- 📧 **Email:** aiswarya@email.com
+- 🔗 **LinkedIn:**  www.linkedin.com/in/aiswarya-s207
+- 📧 **Email:** aiswaryas207@gmail.com
 
 
