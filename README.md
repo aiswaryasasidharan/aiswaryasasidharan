@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi there I'm Aiswarya 👋
 
-<!--
-**aiswaryasasidharan/aiswaryasasidharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+💻 Full Stack Developer 
+🐍 Python | Django | REST APIs | React  
+📍 Pathanamthitta, Kerala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Django REST API projects  
+🌱 I’m currently learning React and advanced Django concepts
+👯 I’m looking to collaborate on open source projects
+
+ 🤝 Let's Connect
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: aiswarya@email.com 
+
