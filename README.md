@@ -1,16 +1,35 @@
- Hi there I'm Aiswarya 👋
 
- Welcome to my GitHub Profile!
+<h1 align="center">Hi there, I'm Aiswarya 👋</h1>
 
-💻 Full Stack Developer 
-🐍 Python | Django | REST APIs | React  
-📍 Pathanamthitta, Kerala
+<p align="center">
+Welcome to my GitHub Profile!
+</p>
 
-🔭 I’m currently working on Django REST API projects  
-🌱 I’m currently learning React and advanced Django concepts
-👯 I’m looking to collaborate on open source projects
+---
 
- 🤝 Let's Connect
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: aiswarya@email.com 
+## 👩‍💻 About Me
+
+💻 **Full Stack Developer**  
+🐍 **Python | Django | REST APIs | React**  
+📍 **Pathanamthitta, Kerala**
+
+---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git" />
+</p>
+---
+
+## 🌱 What I'm Up To
+
+🔭 I’m currently working on **Django REST API projects**  
+🌱 I’m currently learning **React** and **advanced Django concepts**  
+👯 I’m looking to collaborate on **open source projects**
+
+---
+
+## 🤝 Let's Connect
+
+- 🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
+- 📧 **Email:** aiswarya@email.com
+
 
