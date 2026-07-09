@@ -9,7 +9,7 @@ Welcome to my GitHub Profile!
 
 ## 👩‍💻 About Me
 
-💻 **Full Stack Developer**  
+💻 **Full Stack Developer | AI Developer (Fresher)**  
 🐍 **Python | Django | REST APIs | React**  
 📍 **Pathanamthitta, Kerala**
 
