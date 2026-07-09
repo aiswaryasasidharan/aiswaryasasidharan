@@ -21,9 +21,13 @@ Welcome to my GitHub Profile!
 
 ## 🌱 What I'm Up To
 
-🔭 I’m currently working on **Django REST API projects**  
-🌱 I’m currently learning **React** and **advanced Django concepts**  
-👯 I’m looking to collaborate on **open source projects**
+🌱 I'm currently learning Generative AI and Agentic AI
+
+🤖 I'm currently building AI applications using Python, FastAPI, LangChain.
+
+🚀 I'm currently working on AI-powered projects and REST APIs
+
+🤝 I'm looking to collaborate on AI, Python, and Open Source projects
 
 ---
 
